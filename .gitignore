@@ -1,0 +1,12 @@
+public/
+resources/
+.hugo_build.lock
+
+node_modules/
+.DS_Store
+.env
+config.development.toml
+
+# language env
+.python-version
+.java-version
