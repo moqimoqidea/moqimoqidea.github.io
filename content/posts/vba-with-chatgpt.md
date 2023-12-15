@@ -21,7 +21,7 @@ draft: true
 
 某天，一个朋友发我一个 Excel 截图如下:
 
-![20231207-screen-excel](https://raw.githubusercontent.com/moqimoqidea/moqimoqidea.github.io/master/static/images/20231207-screen-excel.jpg)
+![20231207-screen-excel](/images/20231207-screen-excel.jpg)
 
 并问我: `有什么办法，能按照这个数量，然后把表格分成这么多行，把数量都拆成1`
 

@@ -1,0 +1,54 @@
+
+baseURL = 'https://moqimoqidea.online/'
+
+languageCode = 'zh-Hans'
+
+title = 'moqi blogs'
+
+enableRobotsTXT = true
+
+hasCJKLanguage = true
+
+theme = 'dream'
+
+googleAnalytics = "..."
+
+disqusShortname = "..."
+
+highlightjs = true
+
+[params]
+  # info
+  author = "moqimoqidea"
+  description = "moqi blogs"
+  headerTitle = "moqi blogs"
+  motto = "You get what you what."
+
+  rss = true
+  utterancesRepo = "moqimoqidea/moqimoqidea.github.io"
+
+  email = "moqi@moqimoqidea.online"
+  github = "moqimoqidea"
+  siteStartYear = 2023
+  favicon = "/favicon.ico"
+
+  # highlight
+  highlightjs = true
+  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  highlightjsExtraLanguages = ["ocaml"]
+  highlightjsTheme = "gruvbox-light"
+  highlightjsThemeDark = "gruvbox-dark"
+
+  # search
+  enableSearch = true
+
+  # options
+  showSummaryCoverInPost = true
+  fixedNav = true
+ 
+  [params.experimental]
+    jsDate = true
+    jsDateFormat = "yyyy年MM月dd日"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
