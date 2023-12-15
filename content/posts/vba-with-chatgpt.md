@@ -8,7 +8,7 @@ categories:
 tags:
   - tag1
   - tag2
-draft: true
+draft: false
 ---
 
 通过与 ChatGPT 不断交流，完成 VBA 代码的编写。
