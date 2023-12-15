@@ -1,8 +1,19 @@
-+++
-title = 'Vba With Gpt4'
-date = 2023-12-15T15:12:28+08:00
-draft = false
-+++
+---
+title: Vba With Chatgpt
+date: 2023-12-15T15:51:54+08:00
+lastmod: 2023-12-15T15:51:54+08:00
+author: moqimoqidea
+categories:
+  - category1
+tags:
+  - tag1
+  - tag2
+draft: true
+---
+
+通过与 ChatGPT 不断交流，完成 VBA 代码的编写。
+
+<!--more-->
 
 ## 使用 GPT4 生成 VBA 代码
 

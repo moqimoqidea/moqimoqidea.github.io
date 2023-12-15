@@ -2,3 +2,6 @@ baseURL = 'https://moqimoqidea.online/'
 languageCode = 'en-us'
 title = 'moqi blogs'
 theme = 'dream'
+defaultContentLanguage = 'en'
+googleAnalytics = "..."
+disqusShortname = "..."
