@@ -1,19 +1,19 @@
 
-baseURL = 'https://moqimoqidea.online/'
+baseURL = "https://moqimoqidea.online/"
 
-languageCode = 'zh-Hans'
+languageCode = "zh-Hans"
 
-title = 'moqi blogs'
+title = "moqi blogs"
 
 enableRobotsTXT = true
 
 hasCJKLanguage = true
 
-theme = 'dream'
+theme = "dream"
 
-googleAnalytics = "..."
+googleAnalytics = "G-MJJ11VK5R7"
 
-disqusShortname = "..."
+# disqusShortname = "..."
 
 highlightjs = true
 
