@@ -11,8 +11,6 @@ hasCJKLanguage = true
 
 theme = "dream"
 
-googleAnalytics = "G-MJJ11VK5R7"
-
 # disqusShortname = "..."
 
 highlightjs = true
@@ -52,3 +50,7 @@ highlightjs = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-MJJ11VK5R7'
