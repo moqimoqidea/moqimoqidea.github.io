@@ -51,6 +51,8 @@ highlightjs = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+googleAnalytics = "G-MJJ11VK5R7"
+
 [services]
   [services.googleAnalytics]
-    ID = 'G-MJJ11VK5R7'
+    ID = "G-MJJ11VK5R7"
