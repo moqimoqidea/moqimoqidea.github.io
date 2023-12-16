@@ -1,18 +1,11 @@
-
+# base info
 baseURL = "https://moqimoqidea.online/"
-
 languageCode = "zh-Hans"
-
 title = "moqi blogs"
-
 enableRobotsTXT = true
-
 hasCJKLanguage = true
-
 theme = "dream"
-
-# disqusShortname = "..."
-
+googleAnalytics = "G-MJJ11VK5R7"
 highlightjs = true
 
 [params]
@@ -50,8 +43,6 @@ highlightjs = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-googleAnalytics = "G-MJJ11VK5R7"
 
 [services]
   [services.googleAnalytics]
