@@ -5,7 +5,7 @@ title = "moqi blogs"
 enableRobotsTXT = true
 hasCJKLanguage = true
 theme = "dream"
-googleAnalytics = "G-MJJ11VK5R7"
+# googleAnalytics = "G-MJJ11VK5R7" # Removed to fix build error
 highlightjs = true
 
 [params]
@@ -44,6 +44,7 @@ highlightjs = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-[services]
-  [services.googleAnalytics]
-    ID = "G-MJJ11VK5R7"
+# Removed GoogleAnalytics service configuration to fix build error
+# [services]
+#  [services.googleAnalytics]
+#    ID = "G-MJJ11VK5R7"
